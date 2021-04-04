@@ -1,0 +1,182 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.top-container{
+    background-color: #eaf6f6;
+    margin-top: 0;
+    line-height: 2;
+}
+
+h1{
+    margin: 0;
+    color: #66bfbf;
+    font-size: 70px;
+    font-weight: 800;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color: #66bfbf;
+    font-size: 40px;
+    font-weight: 650;
+    font-family: 'Dosis', sans-serif;
+}
+h3{
+    color: #66bfbf;
+    font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+}
+
+.myName{
+    display: inline-block;
+    margin-top: 100px;
+}
+.a_programmer{
+    margin-top: 0%;
+}
+
+.pro{
+    color: crimson;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 45px;
+    right: 300px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    top: 290px;
+}
+
+.mountain{
+    margin-top: 100px;
+}
+
+.middle-container{
+    margin-top: 3.35rem; 
+    font-weight: 350;
+}
+
+.hi{
+    margin: 20px 0 10px;
+    padding: 10px 0 10px;
+}
+
+.about_me{
+    display: inline-block;
+    width: 40%;
+    line-height: 1.8rem;
+}
+
+.sejong{
+    text-decoration: none;
+    color: red;
+}
+
+.first-hr{
+    margin-top: 60px;
+}
+
+.dev{
+    text-align: left;
+}
+
+hr{
+    width: 5%;
+    border: 10px dotted #eaf6f6;
+    border-bottom: none;
+    font-size: 180px;
+    margin: 0 auto 70px;
+    line-height: 90px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px;
+    line-height: 2;
+    text-align: left;
+}
+
+.monitor{
+    width: 30%;
+    float: left;
+    padding-right: 1.875rem;
+    margin-top: 20px; 
+}
+
+.chillies{
+    width: 30%;
+    float: right;
+    padding-left: 1.875rem;
+    margin-top: 30px;
+}
+
+.footer{
+    margin: 45px auto 25px;
+    color: #eaf6f6;
+}
+
+.footer-link{
+    padding: 20px;
+    text-decoration: none;
+    color: #11999e   ;
+}
+.footers{
+    background-color: #66bfbf; 
+    height: 100%;
+    padding: 20px;
+}
+.footer-link1{
+    margin-top: 20px;
+}
+
+.con{
+    color: #66bfbf;
+}
+.con2{
+   line-height: 2;
+}
+.contact{
+    line-height: 2.5rem;
+    margin: 100px auto 50px;
+    width: 45%;
+}
+.button{
+    margin: 60px auto 70px;
+}
+
+.btn {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #1c4a66;
+    background-image: -webkit-linear-gradient(top, #1c4a66, #1C4A66);
+    background-image: -moz-linear-gradient(top, #1c4a66, #1C4A66);
+    background-image: -ms-linear-gradient(top, #1c4a66, #1C4A66);
+    background-image: -o-linear-gradient(top, #1c4a66, #1C4A66);
+    background-image: linear-gradient(to bottom, #1c4a66, #1C4A66);
+    text-decoration: none;
+  }
+
+
